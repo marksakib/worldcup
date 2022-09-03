@@ -1,0 +1,92 @@
+.hero-top{
+    background-color: black;
+    margin: 3% 15%;
+    border-radius: 3%;
+    display: flex;
+    padding: 3% 10%;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.text p,h1{
+color: aliceblue;
+font-family:Poppins}
+
+.text h1{
+    font-size:xx-large;
+}
+.watch{
+    
+    background-color:#DD0000;
+    color: aliceblue;
+    padding: 3% 5%;
+    border-radius:10%;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+}
+.fa-circle-arrow-right{
+    color: aliceblue;
+}
+.second{
+    display: flex;
+    justify-content: center;
+}
+.part1{
+background-color: black;
+border-radius: 5%;
+margin-right: 25px;
+padding: 30px;
+height: 230px;
+}
+.dong h2{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 7%;
+    text-align: center;
+}
+.part2{
+    display: grid;
+    grid-template-columns: 312px 312px 312px;
+    gap:15px;
+}
+#red h2{
+    background-color: #DD0000;
+    padding: 10px;
+    border-radius: 7%;
+    text-align: center;
+}
+#red h2 a{
+    text-decoration:none;
+    color: aliceblue;
+}
+.dong h2 a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    margin-top: 40px;
+    height: 300px;
+    background-color: black;
+    width:100%;
+}
+.center{
+    text-align: center;
+    font-family: Poppins;
+    font-size: xx-large;
+}
+.footer{
+padding-top: 60px;
+}
+.texts{
+    color: aliceblue;
+}
+.tt{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.tt p{
+    text-align: center;
+}
